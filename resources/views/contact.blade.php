@@ -82,9 +82,8 @@
                             <br>
                             <br>Sollicitudin ac orci phasellus egestas tellus rutrum. Venenatis cras sed felis eget. Amet risus nullam eget felis eget nunc. Lacus vestibulum sed arcu non odio euismod. Consectetur adipiscing elit duis tristique.Pharetra magna ac placerat vestibulum lectus mauris ultrices. Ut pharetra sit amet.
                         </p>
-                        <p class="u-text u-text-3">Images from <a href="https://www.freepik.com" class="u-active-none u-border-1 u-border-active-grey-60 u-border-black u-border-hover-grey-60 u-btn u-button-link u-button-style u-hover-none u-none u-text-body-color u-btn-1" target="_blank">Freepik</a>
                         </p>
-                        <a href="https://nicepage.best" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">learn more</a>
+                        <a href="" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">Daha Fazla Bilgi</a>
                     </div>
                 </div>
             </div>
@@ -97,15 +96,23 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
-    <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
+    <a class="u-link" href="">
+        <span>Serhat Obay</span>
     </a>
     <p class="u-text">
         <span>created with</span>
     </p>
-    <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
+    <a class="u-link" href="https://semihycl.com/tr" target="_blank">
+        <span>Semih Yücel</span>
     </a>.
 </section>
+
+<script>
+    window.onload = function(){
+        whatsapp_se_btn_phone = '{{ str_replace(' ','','05373855604') }}'; //Telefon numaramız.
+        whatsapp_se_btn_msg = '{{ 'selam' }}'; //Yazılmasını istediğimiz hazır mesaj.
+        $(document.body).append('<div class="whatsapp-se-btn"></div>'),$(".whatsapp-se-btn").attr("style","position: fixed;bottom: 15px;right: 15px;z-index: 9999999;cursor: pointer;"),$(".whatsapp-se-btn").html('<img style="width: 75px;" src="{{ asset('frontend/images/WhatsApp-Logo (1).png') }}"" alt="{{ 'selam' }}" />'),$(".whatsapp-se-btn").attr("onclick",'window.open("https://wa.me/'+whatsapp_se_btn_phone+"?text="+whatsapp_se_btn_msg+'")');
+    }
+</script>
 </body>
 </html>

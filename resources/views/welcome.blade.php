@@ -67,19 +67,17 @@
     <div class="u-carousel-inner" role="listbox">
         <div class="skrollable skrollable-between u-active u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-1" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Coaching Services</h1>
+                <h1 class="u-text u-text-1">Slider 1</h1>
                 <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
                             <div class="u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
-                                <div class="u-container-layout u-valign-middle u-container-layout-1">
-                                    <a href="https://nicepage.com/static-site-generator" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Learn More</a>
-                                </div>
+
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                    <a href="https://nicepage.com/k/exam-html-templates" class="u-border-2 u-border-white u-btn u-btn-round u-button-style u-radius-50 u-btn-2">Live Demo</a>
+
                                 </div>
                             </div>
                         </div>
@@ -89,19 +87,19 @@
         </div>
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-2" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Coaching Services</h1>
+                <h1 class="u-text u-text-1">Slider 2</h1>
                 <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
                             <div class="u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                                    <a href="https://nicepage.com/static-site-generator" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Learn More</a>
+                                    <a href="{{route('about')}}" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Daha Fazla Bilgi</a>
                                 </div>
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                    <a href="https://nicepage.com/k/exam-html-templates" class="u-border-2 u-border-white u-btn u-btn-round u-button-style u-radius-50 u-btn-2">Live Demo</a>
+
                                 </div>
                             </div>
                         </div>
@@ -111,19 +109,19 @@
         </div>
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-3" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Coaching Services</h1>
+                <h1 class="u-text u-text-1">Slider 3</h1>
                 <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
                             <div class="u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                                    <a href="https://nicepage.com/static-site-generator" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Learn More</a>
+                                    <a href="{{route('contact')}}" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">İletişim</a>
                                 </div>
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                    <a href="https://nicepage.com/k/exam-html-templates" class="u-border-2 u-border-white u-btn u-btn-round u-button-style u-radius-50 u-btn-2">Live Demo</a>
+
                                 </div>
                             </div>
                         </div>
@@ -236,14 +234,14 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
-    <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
+    <a class="u-link" href="">
+        <span>Serhat Obay</span>
     </a>
     <p class="u-text">
         <span>created with</span>
     </p>
-    <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
+    <a class="u-link" href="https://semihycl.com/tr" target="_blank">
+        <span>Semih Yücel</span>
     </a>.
 </section>
 </body>
