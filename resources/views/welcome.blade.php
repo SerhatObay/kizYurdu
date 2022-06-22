@@ -199,7 +199,7 @@
 
 
           </span>
-                        <h3 class="u-text u-text-9">Quality</h3>
+                        <h3 class="u-text u-text-9">Çamaşırhane ve Yemekhane Hizmeti</h3>
                         <p class="u-text u-text-10">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4"></a>
                     </div>
