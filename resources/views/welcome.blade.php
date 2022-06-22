@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="keywords" content="INTUITIVE">
     <meta name="description" content="">
-    <title>Home</title>
+    <title>AnaSayfa</title>
     <link rel="stylesheet" href="{{asset('frontend/nicepage.css')}}" media="screen">
     <link rel="stylesheet" href="{{asset('frontend/Home.css')}}" media="screen">
     <script class="u-script" type="text/javascript" src="{{asset('frontend/jquery.js')}}" defer=""></script>
@@ -39,18 +39,18 @@
                 </a>
             </div>
             <div class="u-nav-container">
-                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">Home</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">About</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">Contact</a>
+                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">Anasayfa</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">Hakkımızda</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">İletişim</a>
                     </li></ul>
             </div>
             <div class="u-nav-container-collapse">
                 <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
                     <div class="u-inner-container-layout u-sidenav-overflow">
                         <div class="u-menu-close"></div>
-                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">Home</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">About</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">Contact</a>
+                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">AnaSayfa</a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">Hakkımızda</a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">İletişim</a>
                             </li></ul>
                     </div>
                 </div>
@@ -162,7 +162,7 @@
 </section>
 <section class="u-align-center u-clearfix u-section-3" id="sec-0b61">
     <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-text u-text-default u-text-1">Key Features</h2>
+        <h2 class="u-text u-text-default u-text-1">İmkanlarımız</h2>
         <p class="u-text u-text-default u-text-2">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
         <div class="u-expanded-width u-list u-list-1">
             <div class="u-repeater u-repeater-1">
@@ -171,9 +171,9 @@
 
 
           </span>
-                        <h3 class="u-align-center u-text u-text-3">Gifts</h3>
+                        <h3 class="u-align-center u-text u-text-3">Sıcak su</h3>
                         <p class="u-align-center u-text u-text-4">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1"></a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -181,9 +181,9 @@
 
 
           </span>
-                        <h3 class="u-text u-text-5">Approach</h3>
+                        <h3 class="u-text u-text-5">Wi-fi</h3>
                         <p class="u-text u-text-6">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2"></a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -191,9 +191,9 @@
 
 
           </span>
-                        <h3 class="u-text u-text-7">500+ Sites</h3>
+                        <h3 class="u-text u-text-7">Günlük Temizlik</h3>
                         <p class="u-text u-text-8">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3"></a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -203,7 +203,7 @@
           </span>
                         <h3 class="u-text u-text-9">Quality</h3>
                         <p class="u-text u-text-10">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4"></a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -211,9 +211,9 @@
 
 
           </span>
-                        <h3 class="u-text u-text-11">Design</h3>
+                        <h3 class="u-text u-text-11">Şık Tasarımlı Odalar</h3>
                         <p class="u-text u-text-12">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-5">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-5"></a>
                     </div>
                 </div>
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -221,9 +221,9 @@
 
 
           </span>
-                        <h3 class="u-text u-text-13">No Coding</h3>
+                        <h3 class="u-text u-text-13">Bina Güvenliği</h3>
                         <p class="u-text u-text-14">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-6">learn more</a>
+                        <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-6"></a>
                     </div>
                 </div>
             </div>

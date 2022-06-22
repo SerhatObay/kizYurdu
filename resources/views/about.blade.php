@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="keywords" content="Sample Headline">
     <meta name="description" content="">
-    <title>About</title>
+    <title>Hakkımızda</title>
     <link rel="stylesheet" href="{{asset('frontend/nicepage.css')}}" media="screen">
     <link rel="stylesheet" href="{{asset('frontend/About.css')}}" media="screen">
     <script class="u-script" type="text/javascript" src="{{asset('frontend/jquery.js')}}" defer=""></script>
@@ -37,18 +37,18 @@
                 </a>
             </div>
             <div class="u-nav-container">
-                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">Home</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">About</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">Contact</a>
+                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">AnaSayfa</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">Hakkımızda</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">İletişim</a>
                     </li></ul>
             </div>
             <div class="u-nav-container-collapse">
                 <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
                     <div class="u-inner-container-layout u-sidenav-overflow">
                         <div class="u-menu-close"></div>
-                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">Home</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">About</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">Contact</a>
+                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">AnaSayfa</a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">Hakkımızda </a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">iletişim</a>
                             </li></ul>
                     </div>
                 </div>

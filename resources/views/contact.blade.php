@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Contact</title>
+    <title>İletişim</title>
     <link rel="stylesheet" href="{{asset('frontend/nicepage.css')}}" media="screen">
     <link rel="stylesheet" href="{{asset('frontend/Contact.css')}}" media="screen">
     <script class="u-script" type="text/javascript" src="{{asset('frontend/jquery.js')}}" defer=""></script>
@@ -37,18 +37,18 @@
                 </a>
             </div>
             <div class="u-nav-container">
-                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">Home</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">About</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">Contact</a>
+                <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">AnaSayfa</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">Hakkımızda</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">İletişim</a>
                     </li></ul>
             </div>
             <div class="u-nav-container-collapse">
                 <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
                     <div class="u-inner-container-layout u-sidenav-overflow">
                         <div class="u-menu-close"></div>
-                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">Home</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">About</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">Contact</a>
+                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">AnaSayfa</a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">Hakkımızda</a>
+                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">İletişim</a>
                             </li></ul>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="u-container-style u-layout-cell u-palette-5-light-3 u-size-30 u-layout-cell-1">
                     <div class="u-container-layout u-valign-middle u-container-layout-1">
                         <div class="u-image u-image-circle u-preserve-proportions u-image-2" alt="" data-image-width="891" data-image-height="891"></div>
-                        <h4 class="u-align-center u-text u-text-1">About&nbsp; Studio</h4>
+                        <h4 class="u-align-center u-text u-text-1">İletişim ve&nbsp; Adres</h4>
                         <div class="u-social-icons u-spacing-30 u-social-icons-1">
                             <a class="u-social-url" target="_blank" href=""><span class="u-icon u-icon-circle u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-b57b"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 112 112" x="0px" y="0px" id="svg-b57b"><path d="M75.5,28.8H65.4c-1.5,0-4,0.9-4,4.3v9.4h13.9l-1.5,15.8H61.4v45.1H42.8V58.3h-8.8V42.4h8.8V32.2 c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
                             </a>
