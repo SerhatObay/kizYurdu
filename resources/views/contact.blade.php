@@ -57,7 +57,7 @@
         </nav>
     </div></header>
 <section class="u-clearfix u-section-1" id="carousel_f9b2">
-    <img class="u-expanded-width u-image u-image-1" src="{{asset('frontend/images/Untitled-2.jpg')}}" data-image-width="1632" data-image-height="1080">
+    <img class="u-expanded-width u-image u-image-1" src="{{asset('frontend/images/manzara.jpg')}}" data-image-width="1632" data-image-height="1080">
     <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
             <div class="u-layout-row">
@@ -85,7 +85,7 @@
 
                         </p>
                         </p>
-                        <a href="tel:123-456-7890" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">Daha Fazla Bilgi İçin</a>
+                        <a href="tel:123-456-7890" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">Daha Fazla Bilgi İçin Bizi Arayın </a>
                     </div>
                 </div>
             </div>

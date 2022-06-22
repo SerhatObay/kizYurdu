@@ -77,6 +77,7 @@
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
+                                    <a href="{{route('contact')}}" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">İletişim</a>
 
                                 </div>
                             </div>
@@ -116,7 +117,7 @@
                         <div class="u-layout-row">
                             <div class="u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                                    <a href="{{route('contact')}}" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">İletişim</a>
+
                                 </div>
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
@@ -161,7 +162,7 @@
 <section class="u-align-center u-clearfix u-section-3" id="sec-0b61">
     <div class="u-clearfix u-sheet u-sheet-1">
         <h2 class="u-text u-text-default u-text-1">İmkanlarımız</h2>
-        <p class="u-text u-text-default u-text-2">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+        <p class="u-text u-text-default u-text-2">Uygun Fiyatlarımızla Yararlanabileceğiniz İmkanlarımız</p>
         <div class="u-expanded-width u-list u-list-1">
             <div class="u-repeater u-repeater-1">
                 <div class="u-align-center u-container-style u-list-item u-repeater-item">
@@ -244,5 +245,12 @@
         <span>Semih Yücel</span>
     </a>.
 </section>
+<script>
+    window.onload = function(){
+        whatsapp_se_btn_phone = '{{ str_replace(' ','','05373855604') }}'; //Telefon numaramız.
+        whatsapp_se_btn_msg = '{{ 'selam' }}'; //Yazılmasını istediğimiz hazır mesaj.
+        $(document.body).append('<div class="whatsapp-se-btn"></div>'),$(".whatsapp-se-btn").attr("style","position: fixed;bottom: 15px;right: 15px;z-index: 9999999;cursor: pointer;"),$(".whatsapp-se-btn").html('<img style="width: 75px;" src="{{ asset('frontend/images/WhatsApp-Logo (1).png') }}"" alt="{{ 'selam' }}" />'),$(".whatsapp-se-btn").attr("onclick",'window.open("https://wa.me/'+whatsapp_se_btn_phone+"?text="+whatsapp_se_btn_msg+'")');
+    }
+</script>
 </body>
 </html>
