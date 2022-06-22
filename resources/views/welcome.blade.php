@@ -67,8 +67,8 @@
     <div class="u-carousel-inner" role="listbox">
         <div class="skrollable skrollable-between u-active u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-1" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Slider 1</h1>
-                <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
+                <h1 class="u-text u-text-1"> </h1>
+                <p class="u-large-text u-text u-text-variant u-text-2"> </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
@@ -87,8 +87,8 @@
         </div>
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-2" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Slider 2</h1>
-                <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
+                <h1 class="u-text u-text-1"> </h1>
+                <p class="u-large-text u-text u-text-variant u-text-2"> </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
@@ -109,8 +109,8 @@
         </div>
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-3" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Slider 3</h1>
-                <p class="u-large-text u-text u-text-variant u-text-2">Simple Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum.</p>
+                <h1 class="u-text u-text-1"> </h1>
+                <p class="u-large-text u-text u-text-variant u-text-2"> </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">

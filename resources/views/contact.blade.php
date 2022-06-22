@@ -81,9 +81,11 @@
                             <span style="font-weight: 700; font-style: italic;">Pharetra magna ac placerat vestibulum lectus mauris ultrices. Ut pharetra sit amet aliquam.</span>
                             <br>
                             <br>Sollicitudin ac orci phasellus egestas tellus rutrum. Venenatis cras sed felis eget. Amet risus nullam eget felis eget nunc. Lacus vestibulum sed arcu non odio euismod. Consectetur adipiscing elit duis tristique.Pharetra magna ac placerat vestibulum lectus mauris ultrices. Ut pharetra sit amet.
+
+
                         </p>
                         </p>
-                        <a href="" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">Daha Fazla Bilgi</a>
+                        <a href="tel:123-456-7890" class="u-active-palette-2-light-1 u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-palette-2-light-1 u-none u-radius-50 u-text-active-white u-text-body-alt-color u-text-hover-white u-btn-2">Daha Fazla Bilgi İçin</a>
                     </div>
                 </div>
             </div>
