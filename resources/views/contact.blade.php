@@ -96,7 +96,7 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
-    <a class="u-link" href="">
+    <a class="u-link" href="https://instagram.com/serhatobay?utm_medium=copy_link" target="_blank">
         <span>Serhat Obay</span>
     </a>
     <p class="u-text">
