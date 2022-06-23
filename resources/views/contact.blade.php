@@ -109,7 +109,7 @@
 
 <script>
     window.onload = function(){
-        whatsapp_se_btn_phone = '{{ str_replace(' ','','+905373855604') }}'; //Telefon numaramız.
+        whatsapp_se_btn_phone = '{{ str_replace(' ','','+9005013347014') }}'; //Telefon numaramız.
         whatsapp_se_btn_msg = '{{ 'Yurt hakkında bilgi alabilir miyim?' }}'; //Yazılmasını istediğimiz hazır mesaj.
         $(document.body).append('<div class="whatsapp-se-btn"></div>'),$(".whatsapp-se-btn").attr("style","position: fixed;bottom: 15px;right: 15px;z-index: 9999999;cursor: pointer;"),$(".whatsapp-se-btn").html('<img style="width: 75px;" src="{{ asset('frontend/images/WhatsApp-Logo (1).png') }}"" alt="{{ 'selam' }}" />'),$(".whatsapp-se-btn").attr("onclick",'window.open("https://wa.me/'+whatsapp_se_btn_phone+"?text="+whatsapp_se_btn_msg+'")');
     }
