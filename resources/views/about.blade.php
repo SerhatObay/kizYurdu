@@ -25,8 +25,8 @@
     <meta property="og:type" content="website">
 </head>
 <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-cd40"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
-            <img src="{{asset('frontend/images/default-logo.png')}}" class="u-logo-image u-logo-image-1">
+        <a href="{{route('home')}}" class="u-image u-logo u-image-1">
+            <img src="{{asset('frontend/images/logo.png')}}" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
             <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">

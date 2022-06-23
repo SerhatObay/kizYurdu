@@ -27,8 +27,8 @@
     <meta property="og:type" content="website">
 </head>
 <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-cd40"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
-            <img src="{{asset('frontend/images/default-logo.png')}}" class="u-logo-image u-logo-image-1">
+        <a href="{{route('home')}}" class="u-image u-logo u-image-1">
+            <img src="{{asset('frontend/images/logo-bold.png')}}" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
             <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
@@ -40,7 +40,6 @@
             </div>
             <div class="u-nav-container">
                 <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('home')}}" style="padding: 10px 20px;">Anasayfa</a>
-                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('about')}}" style="padding: 10px 20px;">Hakkımızda</a>
                     </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="{{route('contact')}}" style="padding: 10px 20px;">İletişim</a>
                     </li></ul>
             </div>
@@ -49,7 +48,6 @@
                     <div class="u-inner-container-layout u-sidenav-overflow">
                         <div class="u-menu-close"></div>
                         <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('home')}}">AnaSayfa</a>
-                            </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('about')}}">Hakkımızda</a>
                             </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route('contact')}}">İletişim</a>
                             </li></ul>
                     </div>
@@ -95,7 +93,6 @@
                         <div class="u-layout-row">
                             <div class="u-align-center-sm u-align-center-xs u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                 <div class="u-container-layout u-valign-middle u-container-layout-1">
-                                    <a href="{{route('about')}}" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Daha Fazla Bilgi</a>
                                 </div>
                             </div>
                             <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
