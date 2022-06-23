@@ -65,7 +65,7 @@
     <div class="u-carousel-inner" role="listbox">
         <div class="skrollable skrollable-between u-active u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-1" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1"> </h1>
+                <h1 class="u-text u-text-1">Ankara Universe Ogrenci Yurt ve Apart</h1>
                 <p class="u-large-text u-text u-text-variant u-text-2"> </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
@@ -107,8 +107,8 @@
         </div>
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-3" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1"> </h1>
-                <p class="u-large-text u-text u-text-variant u-text-2"> </p>
+                <h4 class="u-text u-text-1"> </h4>
+                <p class="u-large-text u-text u-text-variant u-text-2">Bu Manzara Eşliğinde Öğrencilik Hayatınızı Geçirmek İster misiniz? </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
