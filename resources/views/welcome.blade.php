@@ -65,7 +65,7 @@
     <div class="u-carousel-inner" role="listbox">
         <div class="skrollable skrollable-between u-active u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-1" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-                <h1 class="u-text u-text-1">Ankara Universe Ogrenci Yurt ve Apart</h1>
+                <h1 class="u-text u-text-1"></h1>
                 <p class="u-large-text u-text u-text-variant u-text-2"> </p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
@@ -147,10 +147,11 @@
     <div class="u-clearfix u-sheet u-valign-bottom u-sheet-1">
         <div class="u-container-style u-expanded-width u-group u-palette-4-dark-2 u-group-1">
             <div class="u-container-layout u-valign-middle u-container-layout-1">
-                <h2 class="u-align-center u-text u-text-default u-text-1">Now It Is Your Time To Design</h2>
+                <h2 class="u-align-center u-text u-text-default u-text-1">Ankara Universe Öğrenci Yurt-Apart-Pansiyon</h2>
                 <div class="u-border-3 u-border-palette-3-base u-line u-line-horizontal u-line-1"></div>
-                <p class="u-align-center u-text u-text-2">Paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus quis elementum. Phasellus <a href="" class="u-border-1 u-border-hover-palette-3-base u-border-white u-btn u-button-style u-none u-text-body-alt-color u-text-hover-palette-3-base u-btn-1">sed efficitur</a> dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur.
-                    Aliquam et sem odio. In ullamcorper nisi nunc, et molestie ipsum iaculis sit amet.
+                <p class="u-align-center u-text u-text-2">Ankara’da öğrenci yurt ve apart konsepti ile hizmete başlayan universe uygun fiyat,  merkezi konumu ve kolay ulaşım imkanlarına sahip olmakla
+                    beraber Ankara’nın güzide manzarasına sahip yurt odalarıyla öğrencilere apart konsepti ile de bir işletmede aktif olarak çalışanlara hizmet vermektedir.
+                    Metroya yürüme mesafesinde 10 dakika otobüs veya minibüs ile de  gidilecek her yere kolaylıkla kısa sürede ulaşım sağlanılabilir.
                 </p>
             </div>
         </div>
@@ -168,7 +169,7 @@
 
           </span>
                         <h3 class="u-align-center u-text u-text-3">Sıcak su</h3>
-                        <p class="u-align-center u-text u-text-4">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <p class="u-align-center u-text u-text-4">7/24 Sıcak Su İmkanı.Sınırsız Sıcak Su İmkanı</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1"></a>
                     </div>
                 </div>
@@ -178,7 +179,7 @@
 
           </span>
                         <h3 class="u-text u-text-5">Wi-fi</h3>
-                        <p class="u-text u-text-6">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <p class="u-text u-text-6">Her Katın Erişimine Açık Olan Sınırsız Kablosuz Ağ Hizmeti</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2"></a>
                     </div>
                 </div>
@@ -187,8 +188,8 @@
 
 
           </span>
-                        <h3 class="u-text u-text-7">Günlük Temizlik</h3>
-                        <p class="u-text u-text-8">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <h3 class="u-text u-text-7">Haftalık Temizlik</h3>
+                        <p class="u-text u-text-8">Haftalık Olarak Odaların Düzen ve Temizlik Hizmeti</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-3"></a>
                     </div>
                 </div>
@@ -197,8 +198,8 @@
 
 
           </span>
-                        <h3 class="u-text u-text-9">Çamaşırhane ve Yemekhane Hizmeti</h3>
-                        <p class="u-text u-text-10">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <h3 class="u-text u-text-9">Çamaşırhane Hizmeti</h3>
+                        <p class="u-text u-text-10">7/24 Açık Çamaşırhanemiz Sizlerin Hizmetindedir.</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-4"></a>
                     </div>
                 </div>
@@ -207,8 +208,8 @@
 
 
           </span>
-                        <h3 class="u-text u-text-11">Şık Tasarımlı Odalar</h3>
-                        <p class="u-text u-text-12">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <h3 class="u-text u-text-11">Yemekhane Hizmeti</h3>
+                        <p class="u-text u-text-12">Sabah Kahvaltınız Ve Akşam Yemeğiniz Bizden</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-5"></a>
                     </div>
                 </div>
@@ -218,7 +219,7 @@
 
           </span>
                         <h3 class="u-text u-text-13">Bina Güvenliği</h3>
-                        <p class="u-text u-text-14">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+                        <p class="u-text u-text-14">Yurdumuz 7/24 Güvenlik Kamerası ile İzlenmektedir</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-6"></a>
                     </div>
                 </div>
@@ -229,7 +230,7 @@
 
 
 <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f709"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Adres Hacettepe Mahallesi UlucanlarCaddesi no: 4 Altındag/Ankara</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
     <a class="u-link" href="https://instagram.com/serhatobay?utm_medium=copy_link" target="_blank">
