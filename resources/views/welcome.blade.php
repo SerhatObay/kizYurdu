@@ -108,7 +108,7 @@
         <div class="skrollable skrollable-between u-align-center u-carousel-item u-clearfix u-image u-shading u-section-1-3" src="">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
                 <h4 class="u-text u-text-1"> </h4>
-                <p class="u-large-text u-text u-text-variant u-text-2">Bu Manzara Eşliğinde Öğrencilik Hayatınızı Geçirmek İster misiniz? </p>
+                <p class="u-large-text u-text u-text-variant u-text-2">Öğrencilik Hayatınızı Uygun Fiyatlı Yurdumuzda Geçirmek İçin Bizimle İletişime Geçiniz.</p>
                 <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
                     <div class="u-layout">
                         <div class="u-layout-row">
@@ -151,7 +151,7 @@
                 <div class="u-border-3 u-border-palette-3-base u-line u-line-horizontal u-line-1"></div>
                 <p class="u-align-center u-text u-text-2">Ankara’da öğrenci yurt ve apart konsepti ile hizmete başlayan universe uygun fiyat,  merkezi konumu ve kolay ulaşım imkanlarına sahip olmakla
                     beraber Ankara’nın güzide manzarasına sahip yurt odalarıyla öğrencilere apart konsepti ile de bir işletmede aktif olarak çalışanlara hizmet vermektedir.
-                    Metroya yürüme mesafesinde 10 dakika otobüs veya minibüs ile de  gidilecek her yere kolaylıkla kısa sürede ulaşım sağlanılabilir.
+                    Metroya yürüme mesafesinde 10 dakika otobüs veya minibüs ile de  gidilecek her yere kolaylıkla kısa sürede ulaşım sağlanılabilir. 2, 4 ve 6 kişilik odalarımızla sizleri ağırlamaktan memnun olacağız.
                 </p>
             </div>
         </div>
