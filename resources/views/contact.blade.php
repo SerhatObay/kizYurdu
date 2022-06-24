@@ -71,18 +71,16 @@
                         <p class="u-text u-text-2">
                             <span style="font-weight: 700; font-style: italic;">Adres</span>
                             <br>
-                            <br>Adres Hacettepe Mahallesi UlucanlarCaddesi no: 4 Altındag/Ankara
+                            <br>Hacettepe Mahallesi Ulucanlar Caddesi No:4    Altındağ /Ankara
                             <br>
                             <br>
                             <span style="font-weight: 700; font-style: italic;">Telefon</span>
                             <br>
                             <span style="font-weight: 700; font-style: italic;">+90 0501 334 70 14</span>
                             <br>
+                            <br>
                             <img src="{{asset('frontend/images/call.png')}}" alt="">
                             <br>
-
-
-
 
                         </p>
                         </p>
@@ -96,7 +94,7 @@
 
 
 <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f709"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Adres Hacettepe Mahallesi UlucanlarCaddesi no: 4 Altındag/Ankara</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Hacettepe Mahallesi Ulucanlar Caddesi No:4 Altındağ/Ankara</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
     <a class="u-link" href="https://instagram.com/serhatobay?utm_medium=copy_link" target="_blank">

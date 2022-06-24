@@ -168,8 +168,8 @@
 
 
           </span>
-                        <h3 class="u-align-center u-text u-text-3">Sıcak su</h3>
-                        <p class="u-align-center u-text u-text-4">7/24 Sıcak Su İmkanı.Sınırsız Sıcak Su İmkanı</p>
+                        <h3 class="u-align-center u-text u-text-3">Sıcak Su</h3>
+                        <p class="u-align-center u-text u-text-4">7/24 Sıcak Su İmkanı. Sınırsız Sıcak Su İmkanı</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-body-color u-btn-1"></a>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
 
 
           </span>
-                        <h3 class="u-text u-text-5">Wi-fi</h3>
+                        <h3 class="u-text u-text-5">Wi-Fi</h3>
                         <p class="u-text u-text-6">Her Katın Erişimine Açık Olan Sınırsız Kablosuz Ağ Hizmeti</p>
                         <a href="" class="u-active-none u-border-2 u-border-palette-2-light-1 u-btn u-btn-rectangle u-button-style u-hover-none u-text-body-color u-btn-2"></a>
                     </div>
@@ -230,7 +230,7 @@
 
 
 <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f709"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Adres Hacettepe Mahallesi UlucanlarCaddesi no: 4 Altındag/Ankara</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Adres Hacettepe Mahallesi Ulucanlar Caddesi No:4 Altındağ/Ankara</p>
     </div></footer>
 <section class="u-backlink u-clearfix u-grey-80">
     <a class="u-link" href="https://instagram.com/serhatobay?utm_medium=copy_link" target="_blank">
