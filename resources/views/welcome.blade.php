@@ -12,7 +12,18 @@
     <script class="u-script" type="text/javascript" src="{{asset('frontend/nicepage.js')}}" defer=""></script>
     <meta name="generator" content="Nicepage 4.12.21, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link rel="icon" href="{{ url('frontend/images/favicon.ico') }}">
 
+
+
+    <style>
+        .u-header .u-image-1{
+            width: 115px;
+        }
+        .u-image.u-logo img {
+            object-fit: contain;
+        }
+    </style>
 
 
 
@@ -28,7 +39,7 @@
 </head>
 <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-cd40"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="{{route('home')}}" class="u-image u-logo u-image-1">
-            <img src="{{asset('frontend/images/logo-bold.png')}}" class="u-logo-image u-logo-image-1">
+            <img src="{{asset('frontend/images/logo.jpeg')}}" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
             <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
